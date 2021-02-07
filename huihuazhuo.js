@@ -31,6 +31,6 @@ obj = {
         "in_app_ownership_type": "PURCHASED",
         "subscription_group_identifier": "20431824"
     }]
-}
+};
 
 $done({ body: JSON.stringify(obj) });
